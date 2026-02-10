@@ -1,5 +1,5 @@
 # Double-Storey Timber House — Structural Engineering Project
-<img width="987" height="717" alt="01_3D_Structure_Overview" src="https://github.com/user-attachments/assets/b6f44cd7-42d5-4267-9bf4-3aab4ddbca59" />
+<img width="987" height="717" alt="01_3D_Structure_Overview" src="https://github.com/user-attachments/assets/8dea1617-06fe-4b0f-8eb3-ebc0ff228048" />
 
 ## Project Overview
 
@@ -96,29 +96,29 @@ All analysis performed using professional engineering workflow.
 ## Drawing Set Included
 
 ### S-01: Foundation & Column Layout
-<img width="810" height="711" alt="02_Foundation_Plan_Pad_Footings" src="https://github.com/user-attachments/assets/ccdcbd18-f3fc-43b8-be6f-d7ea26f41b56" />
+<img width="810" height="711" alt="02_Foundation_Plan_Pad_Footings" src="https://github.com/user-attachments/assets/82b51519-eb65-49b3-8479-e1a2b7d82787" />
 
 * Pad footing layout
 * Column grid
 * Structural dimensions
 
 ### S-02: Floor Framing & Load Paths
-<img width="836" height="711" alt="03_Level_0_Floor_Framing" src="https://github.com/user-attachments/assets/f1ebad66-a51f-4961-a02b-5c093e2aaef1" />
-<img width="822" height="686" alt="04_Level_1_Floor_Framing" src="https://github.com/user-attachments/assets/ec014f69-4a36-481d-9912-dcf5199e994a" />
+<img width="836" height="711" alt="03_Level_0_Floor_Framing" src="https://github.com/user-attachments/assets/59343996-3184-4e64-9295-1622ded02be6" />
+<img width="822" height="686" alt="04_Level_1_Floor_Framing" src="https://github.com/user-attachments/assets/4bd17bbd-5683-4e31-b215-060a1cbd32cd" />
 
 * Beam layout
 * Load transfer paths
 * Structural framing plan
 
 ### S-03: Roof Truss Framing
-<img width="1013" height="688" alt="05_Roof_Truss_Framing" src="https://github.com/user-attachments/assets/7582cfea-2235-47da-ac42-ef071be9f09a" />
+<img width="1013" height="688" alt="05_Roof_Truss_Framing" src="https://github.com/user-attachments/assets/f5e777be-58f9-499a-baf9-4e962c2ddf35" />
 
 * Truss layout
 * Spacing and structural direction
 * Roof structural system
 
 ### S-04: Connection Details
-<img width="1353" height="513" alt="06_Typical_Timber_Connections" src="https://github.com/user-attachments/assets/1ad158c5-ff44-47b9-a387-260746492913" />
+<img width="1353" height="513" alt="06_Typical_Timber_Connections" src="https://github.com/user-attachments/assets/8e5bc4a6-82b8-40b0-8cbe-644a5e213425" />
 
 * Column-footing anchorage
 * Steel bracket connections
